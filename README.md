@@ -16,4 +16,4 @@ Designed, built, and deployed a responsive static portfolio website hosted on **
 ![Live Portfolio Website](live-website.png)
 
 ### 2. Azure Static Web App Resource Overview
-![Azure Static Web App Overview](Azure Static Web App Overview.png)
+![Azure Static Web App Overview](Azure-Static-Web-App-Overview.png)
