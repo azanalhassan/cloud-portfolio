@@ -3,7 +3,7 @@
 ## Project Overview
 Designed, built, and deployed a responsive static portfolio website hosted on **Microsoft Azure Static Web Apps** with automated CI/CD deployment via GitHub Actions and serverless form handling via Formspree.
 
-**Live Website:** [View Portfolio](https://your-azure-url-here.azurestaticapps.net)
+**Live Website:** [View Portfolio](https://lively-sky-03f158200.5.azurestaticapps.net/)
 
 ## Architecture & Technologies Used
 * **Cloud Hosting & CI/CD:** Microsoft Azure Static Web Apps (Free Tier) integrated with GitHub Actions for automatic deployments on commit.
